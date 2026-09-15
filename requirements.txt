@@ -1,0 +1,4 @@
+nltk
+SpeechRecognition
+wordfreq
+matplotlib
