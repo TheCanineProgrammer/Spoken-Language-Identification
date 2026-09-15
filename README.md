@@ -62,7 +62,7 @@ An internet connection is required for Google speech recognition. Audio is sent 
 If the `SLID` class is saved in `slid.py`, use:
 
 ```python
-from slid import SLID
+from SLID import SLID
 
 slid = SLID()
 
